@@ -101,7 +101,7 @@ Each training run saves:
 
 ---
 
-## Plot placeholders
+## Results
 
 ![Learning curves: reward & steps](results/learning_curve.png)
 
