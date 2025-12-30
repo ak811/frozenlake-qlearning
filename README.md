@@ -12,7 +12,6 @@ A reinforcement-learning project that trains and evaluates a **tabular Q-learnin
   - `qtable.npy`, `config.json`, `history.json`, `metrics.json`
   - `learning_curve.png`, `policy_heatmap.png`
 - CLI commands: `train`, `eval`, `plot`
-- GitHub Actions CI: lint + tests
 
 ---
 
@@ -34,8 +33,6 @@ pip install pytest ruff
 ---
 
 ## Quickstart
-
-From the repo root:
 
 ### Train
 
