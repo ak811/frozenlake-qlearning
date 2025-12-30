@@ -20,11 +20,5 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Artifacts
-results/runs/
-*.png
-*.npy
-*.npz
-
 # Jupyter (even though you said no notebooks, humans will human)
 .ipynb_checkpoints/
