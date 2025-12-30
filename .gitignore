@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Envs
+.venv/
+venv/
+env/
+ENV/
+pip-wheel-metadata/
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Artifacts
+results/runs/
+*.png
+*.npy
+*.npz
+
+# Jupyter (even though you said no notebooks, humans will human)
+.ipynb_checkpoints/
