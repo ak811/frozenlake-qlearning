@@ -1,5 +1,7 @@
 # FrozenLake Q-Learning
 
+<center><img src="https://gymnasium.farama.org/_images/frozen_lake.gif"></center>
+
 A reinforcement-learning project that trains and evaluates a **tabular Q-learning** agent on Gymnasium’s **FrozenLake-v1** environment.
 
 ---
@@ -96,6 +98,14 @@ Each training run saves:
 - `metrics.json`: evaluation summary (success rate, averages, per-episode stats)
 - `learning_curve.png`: reward and steps per episode
 - `policy_heatmap.png`: max Q-values heatmap with best-action arrows
+
+---
+
+## Plot placeholders
+
+![Learning curves: reward & steps](results/learning_curve.png)
+
+![Q-values & policy heatmap](results/policy_heatmap.png)
 
 ---
 
